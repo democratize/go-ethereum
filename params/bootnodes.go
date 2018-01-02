@@ -20,7 +20,7 @@ package params
 // the main Democratize network.
 var MainnetBootnodes = []string{
 	// Democratize Foundation Go Bootnodes
-	"enode://d4224cd76cb9f8fb991c9aaecd8a6dd9cf50696a7a4979147c793656119d247ed7552ce7fbe9c25b5e4575c2a5fa15fded2d8ff30565eda9fcbcf9cd159fd7a1@35.196.189.179:30301",  // US-EAST
+	"enode://fb9d440c10fcfebd32ef78922f623956db6177d77d168527093776739c608fba0ce06f2f6883f11405017a6e5f9810a2773e18e97f6773a0f5a6ee701c48b959@35.196.128.52:30303",  // US-EAST
 }
 
 // TestnetBootnodes are the enode URLs of the P2P bootstrap nodes running on the
